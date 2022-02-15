@@ -1,4 +1,6 @@
-### Hi there 👋
+# Kim Dongoh
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-dongoh&count_bg=%23F7C9AC&title_bg=%23FBB4BF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **kim-dongoh/kim-dongoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
